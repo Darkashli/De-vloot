@@ -1,0 +1,92 @@
+body {
+	margin: 0px;
+	background: url('css/grfx/bg.png') repeat-x;
+	font-family: arial;
+}
+div.pr1{
+	background: url('css/grfx/header.jpg');
+	height: 270px;
+	width: 800px;
+	margin: 0px auto;
+
+	/*border: 1px solid red;*/
+}
+
+div.pr2{
+	width: 760px;
+	height: auto;
+	/*border: solid 1px red;*/
+	margin: 0px auto;
+	background: #fff;
+	padding: 20px;
+}
+
+div.Navigation{
+	/*border: solid 1px green;*/
+	padding-left: 20px;
+	padding-bottom: 25px;
+	margin-top: 165px;
+
+}
+
+a.Navigation{
+	color: #a9d5d4;
+	text-decoration: none;
+	padding-right: 20px;
+	font-size: 14px;
+}
+
+
+
+img.Topleft{
+	float: left;
+	padding: 0px 20px 20px 0px;
+
+}
+
+img.TopRight{
+	float: right;
+	margin: 20px 0px 20px 20px;
+}
+
+img.pr2{
+	 float: right;
+    margin: 20px 0px 20px 20px;
+}
+
+img.MiddenRight {
+    float: right;
+    margin: 20px 0px 20px 20px;
+}
+
+img.bottom-left {
+    float: left;
+ margin: 20px 20px 0px 0px;
+}
+
+img.BottomRight {
+    float: right;
+    margin: 20px 0px 20px 20px;
+    }
+
+h1.Title {
+    margin: 0px;
+    padding: 20px 20px 0px 20px;
+
+}
+
+h2.Title {
+	margin: 0px;
+	}
+
+div.content {
+	border: 1px solid red;
+    margin: 0px auto;
+    height: 1000px;
+    width: 800px;
+}   
+
+p.Title {
+	margin: 0px;
+	padding: 0px 0px 0px 20px;
+	}
